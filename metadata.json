@@ -1,0 +1,8 @@
+{
+  "name": "TeamFlow Enterprise",
+  "description": "Smart, collaborative AI workspace assistant for professional teams. Automates sprint management, meeting recaps, and departmental announcements.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
