@@ -6,7 +6,7 @@
 
 This contains everything you need to run your app locally.
 
-View your app in AI Studio: https://ai.studio/apps/drive/1TDDNaJiBMAZSemS85AINKiAD-Yuojlgf
+View your app online at: [app](https://teamflow-enterprise-984553928638.us-west1.run.app)
 
 ## Run Locally
 
