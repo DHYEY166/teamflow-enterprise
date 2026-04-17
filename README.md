@@ -10,6 +10,8 @@
 ![License](https://img.shields.io/badge/license-MIT-green)
 ![Vite](https://img.shields.io/badge/build-Vite-purple)
 
+[![TeamFlow Enterprise Demo](https://img.youtube.com/vi/0abgMEFF3IM/maxresdefault.jpg)](https://youtu.be/0abgMEFF3IM)
+
 A smart, collaborative AI workspace assistant for professional teams. TeamFlow Enterprise combines real-time team chat with an embedded AI assistant that automates sprint management, generates meeting recaps, and drafts departmental announcements — all inside a single workspace.
 
 ---
